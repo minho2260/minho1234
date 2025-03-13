@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>월급 계산기</title>
+    <title>월급 계산기 수정</title>
     <style>
         body {
             font-family: Arial, sans-serif;
